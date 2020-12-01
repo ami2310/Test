@@ -1,2 +1,2 @@
 # Test
-Test repository for gt commands
+Test repository for git commands
